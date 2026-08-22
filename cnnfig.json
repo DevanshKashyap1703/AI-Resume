@@ -1,0 +1,6 @@
+{
+  "appName": "AI Resume & Cover Letter Tailor",
+  "appDescription": "Tailor your resume for any job description in seconds using AI.",
+  "openaiModel": "gpt-3.5-turbo",
+  "currency": "USD"
+}
